@@ -7,13 +7,13 @@
 </head>
 
 <body>
-<h1>Multiplication quiz</h1>
+<div style="background-color:lightblue" align="center" class="centerer">
+	<h1>Multiplication Quiz</h1>
+	<div>What is: <input type="text" name="question" id="equation"></div>
+	<div>Your answer: <input type="text" name="answer" id="input"></div>
+	<div id="button"><input type="submit" value="Check Answer" onclick="userInput(equation, solution);"></div>
+</div>
 
-What is: <input type="text" name="question" id="equation"><br>
-Your answer: <input type="text" name="answer" id="input"><br>
-
-<input type="submit" value="Check my answer" onclick="userInput(equation, solution);">
 <script language="javascript" type="text/javascript" src="multiplication.js"></script>
-
 </body>
 </html>
