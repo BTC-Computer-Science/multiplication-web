@@ -1,0 +1,5 @@
+1. Different background color for the Form Box (use a color picker to get the code)
+2. Different hover border color for the submit button
+3. Different font size for everything in the Form Box
+4. Challenge: make a background IMAGE for the HTML Body (you'll need to look that up in W3 Schools)
+5. Challenge: do something else and we'll see if we can catch it!
